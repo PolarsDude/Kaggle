@@ -1,1 +1,1 @@
-### This repository contains notebooks for data analysis and the implementation of machine learning models using data from Kaggle. It is for learning new packages and frameworks. 
+### This is a dataset from Kaggle, and the objective is to predict which tweets are about real disasters. This is to strengthen my skills in cleaning and analyzing text data.  
