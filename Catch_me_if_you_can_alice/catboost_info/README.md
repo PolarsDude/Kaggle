@@ -1,0 +1,1 @@
+This kaggle competetion can be find here https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2
